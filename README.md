@@ -4,4 +4,4 @@ Misturo arte, dados e código para contar histórias interessantes. Vamos conver
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bettinataraujo)  
 
-🖥️ Tecnologias: Figma, SQL, PowerBI, Python, Streamlit.
+🖥️ Tecnologias: Figma, SQL, Power BI, Python, Streamlit.
